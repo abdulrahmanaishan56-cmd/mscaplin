@@ -1,0 +1,82 @@
+{
+  "photos": [
+    {
+      "file": "caplin-project-01.jpg",
+      "filename": "caplin-project-01.jpg",
+      "caption": "Bathroom before-and-after cleaning collage",
+      "category": "Bathroom cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/cbf00b79-cf1b-40d1-8240-5766dd3c689f_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "c0b5921f9031b3b0c3350181e1d9a0a194d7d0fa94133e6e289ebf37f6fd0de8",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "caplin-project-02.jpg",
+      "filename": "caplin-project-02.jpg",
+      "caption": "Shower tray before-and-after cleaning collage",
+      "category": "Deep cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/6664058c-438a-4e10-ab1d-291533c1d5b1_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "caaeb689f3323a4647d2627e10c3d0124595ba5854b0da8b1ad690359894db5a",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "caplin-project-03.jpg",
+      "filename": "caplin-project-03.jpg",
+      "caption": "Oven before-and-after cleaning collage",
+      "category": "Oven cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/71684f2f-efa0-4c53-8f02-09b346a97b65_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "8d3ade633cd09d0d59e72323fee7270474ac307e3b461e8c3d2f6b9e42e0bb23",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "caplin-project-05.jpg",
+      "filename": "caplin-project-05.jpg",
+      "caption": "Cupboard area shown after cleaning",
+      "category": "Kitchen cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/a0863e9b-07b8-43cd-ba73-6174b34c1ce7_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "ff405f8865dc1405d5097d44dccf5e50657344762f3b4e1568a41189cd37690f",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "caplin-project-06.jpg",
+      "filename": "caplin-project-06.jpg",
+      "caption": "Cleaned empty room with freshly vacuumed carpet",
+      "category": "End of tenancy cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/6c7133d3-dfd1-4075-b653-3bf2f2a685b3_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "93bfc06aeb655bcc401131b6fda947600a5f0dd33496f7eed3e7be784e7f12ae",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "caplin-project-08.jpg",
+      "filename": "caplin-project-08.jpg",
+      "caption": "Oven interior with cleaned racks and glass",
+      "category": "Oven cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/f9fa8146-177f-430b-8744-3e79f3eb933a_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "35cc2eb352b5046235836a08b80f8b27224eb231d10585339865eb488fc483ce",
+      "originalBytesPreserved": true
+    }
+  ]
+}

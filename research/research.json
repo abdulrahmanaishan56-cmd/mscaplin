@@ -1,0 +1,194 @@
+{
+  "business": "Ms Caplin Cleaning Services",
+  "slug": "ms-caplin-cleaning-services",
+  "researchedOn": "2026-10-18",
+  "location": {
+    "town": "Gillingham",
+    "region": "Medway, Kent",
+    "country": "United Kingdom"
+  },
+  "description": "Domestic and commercial cleaning for homes, landlords, HMOs and Airbnb properties across Medway and nearby areas.",
+  "contacts": {
+    "phone": "+44 7435 594479",
+    "phoneLocal": "07435 594479",
+    "email": null,
+    "facebook": null,
+    "whatsapp": "https://wa.me/447435594479",
+    "website": null
+  },
+  "contactEvidence": {
+    "phone": "Sole public mobile published on Yell.",
+    "whatsapp": "Owner-authored listing overview explicitly invites contact directly on WhatsApp/text. Link uses the sole public mobile. No message sent and delivery/account status not tested.",
+    "facebook": "No business Facebook profile verified. The Yell share-on-Facebook link is not a business contact.",
+    "email": "No email address published on listing; do not invent one.",
+    "website": "No standalone website linked on Yell or verified by focused business-name searches. This does not prove none exists."
+  },
+  "services": [
+    "Regular domestic cleaning",
+    "Deep and one-off cleaning",
+    "End of tenancy cleaning",
+    "HMO and Airbnb cleaning",
+    "Oven cleaning",
+    "Office and commercial cleaning",
+    "After-builders cleaning",
+    "Eco cleaning",
+    "Ironing and housekeeping"
+  ],
+  "supportedClaims": [
+    {
+      "claim": "Free quotes",
+      "source": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/"
+    },
+    {
+      "claim": "Medway and surrounding areas",
+      "source": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/"
+    },
+    {
+      "claim": "Eco cleaning available",
+      "source": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/"
+    },
+    {
+      "claim": "Insured and DBS checked",
+      "source": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "qualification": "Owner-published claim, not independently audited. Confirm before official launch."
+    }
+  ],
+  "rating": {
+    "value": 4.2,
+    "scale": 5,
+    "count": 5,
+    "platform": "Yell",
+    "source": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+    "asOf": "2026-10-18"
+  },
+  "reviews": [
+    {
+      "author": "LiamM-421",
+      "date": "2026-08-17",
+      "rating": 5,
+      "scale": 5,
+      "platform": "Yell",
+      "summary": "HMO and Airbnb customer praises detailed cleaning and presentation.",
+      "source": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/"
+    },
+    {
+      "author": "EllaB-172",
+      "date": "2024-07-04",
+      "rating": 5,
+      "scale": 5,
+      "platform": "Yell",
+      "summary": "End of tenancy customer praises friendliness and time keeping.",
+      "source": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/"
+    },
+    {
+      "author": "GuliaS",
+      "date": "2021-01-19",
+      "rating": 5,
+      "scale": 5,
+      "platform": "Yell",
+      "summary": "Customer recommends the attention paid to their cleaning job.",
+      "source": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/"
+    }
+  ],
+  "photos": [
+    {
+      "file": "../public/images/caplin-project-01.jpg",
+      "filename": "caplin-project-01.jpg",
+      "caption": "Bathroom before-and-after cleaning collage",
+      "category": "Bathroom cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/cbf00b79-cf1b-40d1-8240-5766dd3c689f_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "c0b5921f9031b3b0c3350181e1d9a0a194d7d0fa94133e6e289ebf37f6fd0de8",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "../public/images/caplin-project-02.jpg",
+      "filename": "caplin-project-02.jpg",
+      "caption": "Shower tray before-and-after cleaning collage",
+      "category": "Deep cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/6664058c-438a-4e10-ab1d-291533c1d5b1_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "caaeb689f3323a4647d2627e10c3d0124595ba5854b0da8b1ad690359894db5a",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "../public/images/caplin-project-03.jpg",
+      "filename": "caplin-project-03.jpg",
+      "caption": "Oven before-and-after cleaning collage",
+      "category": "Oven cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/71684f2f-efa0-4c53-8f02-09b346a97b65_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "8d3ade633cd09d0d59e72323fee7270474ac307e3b461e8c3d2f6b9e42e0bb23",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "../public/images/caplin-project-05.jpg",
+      "filename": "caplin-project-05.jpg",
+      "caption": "Cupboard area shown after cleaning",
+      "category": "Kitchen cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/a0863e9b-07b8-43cd-ba73-6174b34c1ce7_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "ff405f8865dc1405d5097d44dccf5e50657344762f3b4e1568a41189cd37690f",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "../public/images/caplin-project-06.jpg",
+      "filename": "caplin-project-06.jpg",
+      "caption": "Cleaned empty room with freshly vacuumed carpet",
+      "category": "End of tenancy cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/6c7133d3-dfd1-4075-b653-3bf2f2a685b3_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "93bfc06aeb655bcc401131b6fda947600a5f0dd33496f7eed3e7be784e7f12ae",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "../public/images/caplin-project-08.jpg",
+      "filename": "caplin-project-08.jpg",
+      "caption": "Oven interior with cleaned racks and glass",
+      "category": "Oven cleaning",
+      "location": "Medway project gallery; exact property unknown",
+      "sourcePage": "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/",
+      "assetUrl": "https://c.yell.com/t_galleryFit,f_auto/f9fa8146-177f-430b-8744-3e79f3eb933a_image_jpeg.jpg",
+      "width": 800,
+      "height": 800,
+      "sha256": "35cc2eb352b5046235836a08b80f8b27224eb231d10585339865eb488fc483ce",
+      "originalBytesPreserved": true
+    }
+  ],
+  "heroRecommendation": "caplin-project-06.jpg",
+  "galleryRecommendation": [
+    "caplin-project-01.jpg",
+    "caplin-project-02.jpg",
+    "caplin-project-03.jpg",
+    "caplin-project-05.jpg",
+    "caplin-project-06.jpg",
+    "caplin-project-08.jpg"
+  ],
+  "sources": [
+    "https://www.yell.com/biz/ms-caplin-cleaning-services-gillingham-10075006/"
+  ],
+  "limitations": [
+    "Overall listing score is 4.2/5 from five reviews; four five-star reviews and one one-star review. Selected testimonials are individual five-star reviews, not the overall rating.",
+    "Yell has an old 4.0/four-review cached rendition. Live browser listing and more recent search result both show 4.2/five reviews and the 17 Aug 2026 review.",
+    "Eight 800x800 original gallery renditions preserved, with their source borders, embedded before/after labels and proportions. Do not create new before/after pairs unless the original collage explicitly labels them.",
+    "Image 4 and 7 show before-cleaning conditions; use as labelled project context rather than hero images.",
+    "No independently verified ownership permission for a public official website; these are personalised proposal-demo assets from the business listing.",
+    "No public email found. Enquiry form should remain an honest local demo preview; WhatsApp and call are published contact routes.",
+    "The listing mentions eight years experience in legacy copy. Avoid an exact years-in-business claim in current demo."
+  ]
+}
